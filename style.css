@@ -1,0 +1,32 @@
+* {
+    padding: 0;
+    margin: auto;
+    box-sizing: border-box;
+}
+
+.biglietto {
+    height: auto;
+    width: 400px;
+    background-color: steelblue;
+    margin-top: 30px;
+    padding: 20px;
+    text-align: center;
+    color: #fff;
+    border-radius: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font-size: 30px;
+}
+
+p {
+    font-size: 20px;
+}
+
+#anni,
+#kmpercorsi,
+#costo {
+    font-weight: bold;
+    font-size: 22px;
+}
